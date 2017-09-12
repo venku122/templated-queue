@@ -32,15 +32,15 @@ public:
 
 	}
 	// Print
-	print() {
+	void print() {
 
 	}
 	// GetSize
-	GetSize() {
+	int GetSize() {
 
 	}
 	// IsEmpty
-	IsEmpty() {
+	bool IsEmpty() {
 
 	}
 };
